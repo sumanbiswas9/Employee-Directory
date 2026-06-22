@@ -1,0 +1,61 @@
+# Backend - Maven
+Employee-Directory-Backend/target/
+Employee-Directory-Backend/.classpath
+Employee-Directory-Backend/.project
+Employee-Directory-Backend/.settings/
+Employee-Directory-Backend/.springBeans
+Employee-Directory-Backend/.sts4-cache/
+Employee-Directory-Backend/bin/
+
+# Backend - IDE
+Employee-Directory-Backend/.idea/
+Employee-Directory-Backend/.vscode/
+Employee-Directory-Backend/*.iml
+Employee-Directory-Backend/*.iws
+Employee-Directory-Backend/*.ipr
+
+# Backend - Environment
+Employee-Directory-Backend/.env
+Employee-Directory-Backend/.env.local
+Employee-Directory-Backend/.env.*.local
+
+# Frontend - Dependencies
+Employee-Directory-Frontend/node_modules/
+Employee-Directory-Frontend/npm-debug.log*
+Employee-Directory-Frontend/yarn-debug.log*
+Employee-Directory-Frontend/yarn-error.log*
+Employee-Directory-Frontend/pnpm-debug.log*
+
+# Frontend - Build
+Employee-Directory-Frontend/dist/
+Employee-Directory-Frontend/build/
+
+# Frontend - Environment
+Employee-Directory-Frontend/.env
+Employee-Directory-Frontend/.env.local
+Employee-Directory-Frontend/.env.*.local
+
+# Frontend - IDE
+Employee-Directory-Frontend/.idea/
+Employee-Directory-Frontend/.vscode/
+Employee-Directory-Frontend/*.suo
+Employee-Directory-Frontend/*.ntvs*
+Employee-Directory-Frontend/*.njsproj
+Employee-Directory-Frontend/*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# IDE common
+.vscode/
+.idea/
+*.swp
+*.swo
